@@ -1,0 +1,13 @@
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas_Add\bin\Debug\Sistema_Notas_Add.exe.config
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas_Add\bin\Debug\Sistema_Notas_Add.exe
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas_Add\bin\Debug\Sistema_Notas_Add.pdb
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas_Add\obj\Debug\Sistema_Notas_Add.csprojAssemblyReference.cache
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas_Add\obj\Debug\Sistema_Notas_Add.Form1.resources
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas_Add\obj\Debug\Sistema_Notas_Add.Properties.Resources.resources
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas_Add\obj\Debug\Sistema_Notas_Add.csproj.GenerateResource.cache
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas_Add\obj\Debug\Sistema_Notas_Add.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas_Add\obj\Debug\Sistema_Notas_Add.exe
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas_Add\obj\Debug\Sistema_Notas_Add.pdb
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas_Add\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas_Add\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas_Add\obj\Debug\Sistema_Notas_Add.csproj.CopyComplete
