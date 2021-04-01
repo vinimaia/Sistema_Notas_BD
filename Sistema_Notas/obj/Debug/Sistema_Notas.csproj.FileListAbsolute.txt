@@ -1,0 +1,13 @@
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas\bin\Debug\Sistema_Notas.exe.config
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas\bin\Debug\Sistema_Notas.exe
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas\bin\Debug\Sistema_Notas.pdb
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas\obj\Debug\Sistema_Notas.csprojAssemblyReference.cache
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas\obj\Debug\Sistema_Notas.Properties.Resources.resources
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas\obj\Debug\Sistema_Notas.csproj.GenerateResource.cache
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas\obj\Debug\Sistema_Notas.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas\obj\Debug\Sistema_Notas.exe
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas\obj\Debug\Sistema_Notas.pdb
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas\obj\Debug\Sistema_Notas.csproj.CopyComplete
+C:\Users\vinic\source\repos\Sistema_Notas\Sistema_Notas\obj\Debug\Sistema_Notas.Login.resources
