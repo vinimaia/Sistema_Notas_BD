@@ -43,14 +43,14 @@ namespace Sistema_Notas_Add
             this.btnInserir = new System.Windows.Forms.Button();
             this.btnExcluir = new System.Windows.Forms.Button();
             this.btnConectar = new System.Windows.Forms.Button();
-            this.Matricula = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Materia = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Nome = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Nota_1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Nota_2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Nota_3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Nota_4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Media_Final = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.matricula = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.materia = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.nome = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.nota1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.nota2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.nota3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.nota4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.media_Final = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -58,14 +58,14 @@ namespace Sistema_Notas_Add
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.Matricula,
-            this.Materia,
-            this.Nome,
-            this.Nota_1,
-            this.Nota_2,
-            this.Nota_3,
-            this.Nota_4,
-            this.Media_Final});
+            this.matricula,
+            this.materia,
+            this.nome,
+            this.nota1,
+            this.nota2,
+            this.nota3,
+            this.nota4,
+            this.media_Final});
             this.dataGridView1.Location = new System.Drawing.Point(12, 138);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(853, 168);
@@ -172,7 +172,7 @@ namespace Sistema_Notas_Add
             // 
             // btnInserir
             // 
-            this.btnInserir.Location = new System.Drawing.Point(606, 22);
+            this.btnInserir.Location = new System.Drawing.Point(606, 81);
             this.btnInserir.Name = "btnInserir";
             this.btnInserir.Size = new System.Drawing.Size(100, 35);
             this.btnInserir.TabIndex = 12;
@@ -182,7 +182,7 @@ namespace Sistema_Notas_Add
             // 
             // btnExcluir
             // 
-            this.btnExcluir.Location = new System.Drawing.Point(606, 81);
+            this.btnExcluir.Location = new System.Drawing.Point(725, 21);
             this.btnExcluir.Name = "btnExcluir";
             this.btnExcluir.Size = new System.Drawing.Size(100, 35);
             this.btnExcluir.TabIndex = 13;
@@ -191,7 +191,7 @@ namespace Sistema_Notas_Add
             // 
             // btnConectar
             // 
-            this.btnConectar.Location = new System.Drawing.Point(728, 22);
+            this.btnConectar.Location = new System.Drawing.Point(606, 21);
             this.btnConectar.Name = "btnConectar";
             this.btnConectar.Size = new System.Drawing.Size(100, 35);
             this.btnConectar.TabIndex = 14;
@@ -199,45 +199,45 @@ namespace Sistema_Notas_Add
             this.btnConectar.UseVisualStyleBackColor = true;
             this.btnConectar.Click += new System.EventHandler(this.btnConectar_Click);
             // 
-            // Matricula
+            // matricula
             // 
-            this.Matricula.HeaderText = "Matricula";
-            this.Matricula.Name = "Matricula";
+            this.matricula.HeaderText = "Matricula";
+            this.matricula.Name = "matricula";
             // 
-            // Materia
+            // materia
             // 
-            this.Materia.HeaderText = "Materia";
-            this.Materia.Name = "Materia";
+            this.materia.HeaderText = "Materia";
+            this.materia.Name = "materia";
             // 
-            // Nome
+            // nome
             // 
-            this.Nome.HeaderText = "Nome";
-            this.Nome.Name = "Nome";
+            this.nome.HeaderText = "Nome";
+            this.nome.Name = "nome";
             // 
-            // Nota_1
+            // nota1
             // 
-            this.Nota_1.HeaderText = "1º Bimestre";
-            this.Nota_1.Name = "Nota_1";
+            this.nota1.HeaderText = "1º Bimestre";
+            this.nota1.Name = "nota1";
             // 
-            // Nota_2
+            // nota2
             // 
-            this.Nota_2.HeaderText = "2º Bimestre";
-            this.Nota_2.Name = "Nota_2";
+            this.nota2.HeaderText = "2º Bimestre";
+            this.nota2.Name = "nota2";
             // 
-            // Nota_3
+            // nota3
             // 
-            this.Nota_3.HeaderText = "3º Bimestre";
-            this.Nota_3.Name = "Nota_3";
+            this.nota3.HeaderText = "3º Bimestre";
+            this.nota3.Name = "nota3";
             // 
-            // Nota_4
+            // nota4
             // 
-            this.Nota_4.HeaderText = "4º Bimestre";
-            this.Nota_4.Name = "Nota_4";
+            this.nota4.HeaderText = "4º Bimestre";
+            this.nota4.Name = "nota4";
             // 
-            // Media_Final
+            // media_Final
             // 
-            this.Media_Final.HeaderText = "Média Final";
-            this.Media_Final.Name = "Media_Final";
+            this.media_Final.HeaderText = "Média Final";
+            this.media_Final.Name = "media_Final";
             // 
             // Form1
             // 
@@ -283,14 +283,14 @@ namespace Sistema_Notas_Add
         private System.Windows.Forms.Button btnInserir;
         private System.Windows.Forms.Button btnExcluir;
         private System.Windows.Forms.Button btnConectar;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Matricula;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Materia;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Nome;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Nota_1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Nota_2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Nota_3;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Nota_4;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Media_Final;
+        private System.Windows.Forms.DataGridViewTextBoxColumn matricula;
+        private System.Windows.Forms.DataGridViewTextBoxColumn materia;
+        private System.Windows.Forms.DataGridViewTextBoxColumn nome;
+        private System.Windows.Forms.DataGridViewTextBoxColumn nota1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn nota2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn nota3;
+        private System.Windows.Forms.DataGridViewTextBoxColumn nota4;
+        private System.Windows.Forms.DataGridViewTextBoxColumn media_Final;
     }
 }
 
